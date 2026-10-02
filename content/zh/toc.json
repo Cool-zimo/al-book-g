@@ -1,0 +1,12 @@
+{
+  "book": "g",
+  "chapters": [
+    {
+      "title": "第 1 章 · 开始",
+      "lessons": [
+        "01"
+      ],
+      "test": "test-01"
+    }
+  ]
+}
